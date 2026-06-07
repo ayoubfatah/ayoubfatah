@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Hey, I’m Ayoub Fatah, a 23-year-old Moroccan full-stack developer passionate about coding.<br>📚 Currently, I’m building my personal portfolio and diving deeper into Express.js, with an eye on learning Go in the future.<br>💡 Ask me anything about  React and Next.js<br>✨ Quick insight: I thrive on turning complex problems into clean, efficient code and am always exploring the latest in web tech!
+👨‍💻 Hey, I’m Ayoub Fatah, a 24-year-old Moroccan full-stack developer passionate about coding.<br>📚 Currently, I’m building my personal portfolio and diving deeper into Express.js, with an eye on learning Go in the future.<br>💡 Ask me anything about  React and Next.js<br>✨ Quick insight: I thrive on turning complex problems into clean, efficient code and am always exploring the latest in web tech!
 
 
 ## 🌐 Socials:
